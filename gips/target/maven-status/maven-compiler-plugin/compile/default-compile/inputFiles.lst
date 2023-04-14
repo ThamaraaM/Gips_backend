@@ -1,0 +1,12 @@
+C:\Users\win11\Documents\GitHub\backend_info_acess\gips\src\main\java\com\gips\gips\service\CommentsService.java
+C:\Users\win11\Documents\GitHub\backend_info_acess\gips\src\main\java\com\gips\gips\controller\PostsController.java
+C:\Users\win11\Documents\GitHub\backend_info_acess\gips\src\main\java\com\gips\gips\exception\BadRequestException.java
+C:\Users\win11\Documents\GitHub\backend_info_acess\gips\src\main\java\com\gips\gips\controller\CommentsController.java
+C:\Users\win11\Documents\GitHub\backend_info_acess\gips\src\main\java\com\gips\gips\domain\Posts.java
+C:\Users\win11\Documents\GitHub\backend_info_acess\gips\src\main\java\com\gips\gips\domain\Comments.java
+C:\Users\win11\Documents\GitHub\backend_info_acess\gips\src\main\java\com\gips\gips\GipsApplication.java
+C:\Users\win11\Documents\GitHub\backend_info_acess\gips\src\main\java\com\ifba\educampo\swagger\SwaggerConfiguration.java
+C:\Users\win11\Documents\GitHub\backend_info_acess\gips\src\main\java\com\gips\gips\repository\CommentsRepository.java
+C:\Users\win11\Documents\GitHub\backend_info_acess\gips\src\main\java\com\gips\gips\repository\PostsRepository.java
+C:\Users\win11\Documents\GitHub\backend_info_acess\gips\src\main\java\com\gips\gips\requests\CommentsPostRequestBody.java
+C:\Users\win11\Documents\GitHub\backend_info_acess\gips\src\main\java\com\gips\gips\service\PostsService.java
